@@ -18,7 +18,7 @@
 
 
 ## 注意
-* 使用到第三方模块[tzlocal][requests][pyperclip], 需要先[pip install <moudleName>]
+* 使用到第三方模块[tzlocal][requests][pyperclip], 需要先[```pip install <moudleName>```]
 * 为方便执行，使用[fastTickTickTask.bat]
 
 
